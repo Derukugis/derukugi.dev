@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://derukugi.dev/sitemap.xml
